@@ -68,7 +68,7 @@ $faqs = [
             <img width='100' src="./assets/img/logo-google.png" alt="">
             <h1>Privacy e termini</h1>
         </div>
-            
+                    
         </div>
         <div class="bottom_header">
         <nav>
